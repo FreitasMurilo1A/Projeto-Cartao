@@ -15,3 +15,9 @@ criaCartao(
     'Quem foi a primeira pessoa a viajar no Espaço?',
     'Yuri Gagarin'
 )
+
+criaCartao(
+    'História',
+    'Quem inventou a lâmpada?',
+    'Thomas Edson'
+)
